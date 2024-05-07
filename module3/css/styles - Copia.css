@@ -1,0 +1,24 @@
+.body {
+  font-size: 16px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: #3b2acf;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.menu-tile {
+  background-color: #d8d6d6;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h3 {
+  font-size: 1.2em;
+}
